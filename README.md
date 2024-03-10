@@ -1,0 +1,2 @@
+# banditia-tea
+tea testnet
